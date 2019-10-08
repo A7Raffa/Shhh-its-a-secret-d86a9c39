@@ -1,0 +1,16 @@
+label {
+    display: block;
+    font: 1rem 'Fira Sans', sans-serif;
+}
+
+input,
+label {
+    margin: 1px;
+}
+
+#id {
+	float: left;
+	width: 190px;
+}
+
+border-radius: 10px 100px / 120px;
